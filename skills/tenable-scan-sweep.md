@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-10-28
 name: "Tenable Scan Sweep"
 author: "Lance Duvall"
 github_url: "https://github.com/lanz/tenable-scan-sweep"
