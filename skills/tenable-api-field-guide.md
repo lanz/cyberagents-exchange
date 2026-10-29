@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-10-29
 name: "Tenable API Field Guide"
 author: "Lance Duvall"
 github_url: "https://github.com/lanz/tenable-api-field-guide"
